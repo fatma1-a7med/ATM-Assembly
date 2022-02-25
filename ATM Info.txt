@@ -1,0 +1,9 @@
+1 - First Enter Your Password ,
+**check that your password is correct Otherwise, you can't reach the ATM Main Menu.
+
+2 - ATM Main Menu:
+            1) Withdraw.
+            2) Deposite.
+            3) Transfer. (Enter the Account Number).
+            4) Check your Balance.
+  Then, Back to Main Menu OR Exit the program.
